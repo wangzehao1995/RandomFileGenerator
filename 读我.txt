@@ -1,0 +1,2 @@
+1.在使用前打开rfg.cfg调整参数
+2.然后执行RandomFileGenerator.exe
